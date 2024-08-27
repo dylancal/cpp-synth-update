@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+# ImGui config
+*.ini
+
+# CMake / VSCode Dirs
+build/
+CMakeFiles/
+.vscode/
+
